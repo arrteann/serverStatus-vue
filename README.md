@@ -1,4 +1,4 @@
-# comp
+# Server Check Status
 
 ## Project setup
 ```
